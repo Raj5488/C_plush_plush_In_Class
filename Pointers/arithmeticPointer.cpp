@@ -36,4 +36,7 @@ int main(){
     cout<<*ptr<<endl;
 
 
+
+//NotedPoint:-> if have 'int' datatype then take storage 4 bytes 
+// bool/ char -> Then take storage 1 bytes
 }
