@@ -14,5 +14,17 @@ int main(){
 
     // **********second methods
     int arr[7] = {1,4,5,6,7,85,5};
-    cout<<arr[5];
+    // cout<<arr[5];
+
+
+        //inpute
+    for(int i=0;i<=6;i++){
+        cin>>arr[i];
+    }
+
+
+    //output
+    for(int i=0;i<=6;i++){
+        cout<<arr[i]<<" ";
+    }
 }
